@@ -1,4 +1,4 @@
-# StackbOverflow Project
+# StackOverflow Project
 Data mining from Stack Overflow 2019 Annual Developer Survey 
 ## Contents 
 1. [Installation and Requirement](#installation) 
